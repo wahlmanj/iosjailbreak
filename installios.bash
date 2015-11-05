@@ -51,6 +51,8 @@ cp update.bash /usr/bin
 cp updatebash.bash /usr/bin
 cp restart.bash /usr/bin
 cp status.bash /usr/bin
+cp start.bash /usr/bin
+cp stop.bash /usr/bin
 
 ## install autoupdate plist if desired
 echo "Do you wish to install this PlexConnect autoupdates? Press 1 for Yes or 2 for No"
