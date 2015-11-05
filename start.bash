@@ -15,7 +15,7 @@ then
 echo 'No log present'
 else
 
-sleep 2
+sleep 4
 
 ## Display PlexConnect log
 FILE="/Applications/PlexConnect/PlexConnect.log"
